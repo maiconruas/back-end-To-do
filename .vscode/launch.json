@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TodoApplication<Todo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.maicon.Todo.TodoApplication",
+            "projectName": "Todo",
+            "args": ""
+        }
+    ]
+}
